@@ -35,10 +35,11 @@
         </dependency>
     </dependencies>
     <distributionManagement>  
-        <repository>
-        <id>dropbox-mvn-repo</id>
-        <url>file:///C:/Users/I330152/Dropbox/dropbox_mnv_repo</url>
-        </repository>
+  
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
     </distributionManagement> 
     
 </project>
