@@ -33,13 +33,5 @@
         <artifactId>dropbox-core-sdk</artifactId>
         <version>3.0.3</version>
         </dependency>
-    </dependencies>
-    <distributionManagement>  
-  
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-    </distributionManagement> 
-    
+    </dependencies>     
 </project>
